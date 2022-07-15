@@ -1,4 +1,4 @@
-Just a quick summary of the project
+# Just a quick summary of the project!
 - Learned how genomes are stored as data.
 - Visualized the genomes using two tools: Multiple Sequence Alignment Viewer and UCSC Genome Browser.
 - Understood how to read and parse genomes using Biopython
